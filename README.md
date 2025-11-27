@@ -1,7 +1,7 @@
 # Power-Apps-Advent-Calendar-Canvas-App
 Beautiful Advent Calendar built using native Power Apps canvas controls
 
- ![How to use the Advent Calendar App](Power Apps Advent Calendar App Setup.mp4)
+ ![How to use the Advent Calendar App](docs/images/Power Apps Advent Calendar App Setup.mp4)
 
 1️⃣ Import the Canvas App
 1.	Download the **AdventCalender.zip** and the **Advent.xlsx** spreadsheet.
