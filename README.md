@@ -50,7 +50,7 @@ Beautiful Advent Calendar built using native Power Apps canvas controls
 •	Email Subject: Single line of text
 •	Email Message: Multiple lines of text
 
-4.	Click Next and name the list **AdventCalendar* then click **Create.**
+5.	Click Next and name the list **AdventCalendar* then click **Create.**
    
   ![Create a list in SharePoint](docs/images/Step2_3.png)
   
