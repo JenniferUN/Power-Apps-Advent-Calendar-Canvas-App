@@ -2,6 +2,8 @@
 Beautiful Advent Calendar built using native Power Apps canvas controls
 
 ##How to use the app
+
+**clickk the thumbnail image below to learn how to use the Advent Calendar App
 [![Watch the walkthrough](docs/images/Thumbnail.png)](https://go.screenpal.com/watch/cTXuixnqgXC)
 
 ##Install the app 
