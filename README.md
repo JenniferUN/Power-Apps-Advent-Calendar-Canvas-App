@@ -1,12 +1,11 @@
 # Power-Apps-Advent-Calendar-Canvas-App
 Beautiful Advent Calendar built using native Power Apps canvas controls
 
-##How to use the app
-
-**clickk the thumbnail image below to learn how to use the Advent Calendar App
+# How to use the app
+**Watch the Power Apps Advent Calendar walkthrough**
 [![Watch the walkthrough](docs/images/Thumbnail.png)](https://go.screenpal.com/watch/cTXuixnqgXC)
 
-##Install the app 
+# Install the app 
 
 1️⃣ Import the Canvas App
 1.	Download the **AdventCalender.zip** and the **Advent.xlsx** spreadsheet.
@@ -35,7 +34,7 @@ Beautiful Advent Calendar built using native Power Apps canvas controls
    
  ![Create a list in SharePoint](docs/images/Step2_1.png)
  
-2.	Select Import From **Excel**
+2.	Select Import From **Excel**.
    
   ![Create a list in SharePoint](docs/images/Step2_2.png)
 
@@ -58,7 +57,7 @@ Beautiful Advent Calendar built using native Power Apps canvas controls
   
 5.	Once the list is created, you’ll need to update some settings for the Date, Message, Action and Email Message columns.
 
-6.	Go to List Settings
+6.	Go to List Settings.
 
    ![Create a list in SharePoint](docs/images/Step2_4.png)
 
@@ -83,7 +82,7 @@ Beautiful Advent Calendar built using native Power Apps canvas controls
 
 13.	Ensure that the **Default value** field is left blank.
     
-14.	Click **OK**
+14.	Click **OK**.
     
   ![Create a list in SharePoint](docs/images/Step2_7.png)
   
@@ -91,13 +90,13 @@ SharePoint setup is now complete. In the next steps, we will fix the data connec
 
 3️⃣ Reconnect SharePoint and Outlook
 
-1.	Open the Advent Calendar app
+1.	Open the Advent Calendar app.
    
-2.	Click on the **Data** icon and select Add data
+2.	Click on the **Data** icon and select Add data.
    
  ![Create a list in SharePoint](docs/images/Step3_1.png)
 
-3.	Search for SharePoint and connect to your newly created list
+3.	Search for SharePoint and connect to your newly created list.
    
    ![Create a list in SharePoint](docs/images/Step3_2.png)    
    
@@ -107,7 +106,7 @@ SharePoint setup is now complete. In the next steps, we will fix the data connec
    
   ![Create a list in SharePoint](docs/images/Step3_4.png)
 
-5.	Click on the data icon again and select **Add Data**
+5.	Click on the data icon again and select **Add Data**.
    
   ![Create a list in SharePoint](docs/images/Step3_5.png)
 
